@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9837cb9a-bb22-4281-84ae-da2fc305e4e2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/algorithms/Two Sum Problem_LeetCode/Two-Pass Hash Table.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithms/Two Sum Problem_LeetCode/Brute Force Approach.dart" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/Two Sum Problem_LeetCode/Brute Force Approach.dart" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="31bib1s087h14zvquKKrVez5bxq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Dart Command Line App.Brute Force Approach.dart.executor": "Run",
+    "Dart Command Line App.Two-Pass Hash Table.dart.executor": "Run",
+    "Dart Command Line App.hello_world.dart.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "E:/Dart/Dart-Code",
+    "settings.editor.selected.configurable": "AndroidSdkUpdater",
+    "show.migrate.to.gradle.popup": "false"
+  }
+}]]></component>
+  <component name="RunManager" selected="Dart Command Line App.Two-Pass Hash Table.dart">
+    <configuration name="Brute Force Approach.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/algorithms/Two Sum Problem_LeetCode/Brute Force Approach.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$/algorithms/Two Sum Problem_LeetCode" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Two-Pass Hash Table.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/algorithms/Two Sum Problem_LeetCode/Two-Pass Hash Table.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$/algorithms/Two Sum Problem_LeetCode" />
+      <method v="2" />
+    </configuration>
+    <configuration name="hello_world.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/basics/hello_world.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$/basics" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Dart Command Line App.Two-Pass Hash Table.dart" />
+        <item itemvalue="Dart Command Line App.Brute Force Approach.dart" />
+        <item itemvalue="Dart Command Line App.hello_world.dart" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9837cb9a-bb22-4281-84ae-da2fc305e4e2" name="Changes" comment="" />
+      <created>1755799241990</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1755799241990</updated>
+    </task>
+    <servers />
+  </component>
+</project>
