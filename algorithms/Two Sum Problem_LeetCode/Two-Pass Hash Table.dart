@@ -2,7 +2,7 @@
 Problem Description:
 Given an array of integers nums and an integer target, return the indices of the
 two numbers that add up to the target.
- */
+*/
 
 class Solution {
   List<int> twoSum(List<int> nums, int target) {
@@ -28,6 +28,8 @@ void main() {
   print(solution.twoSum(nums, target));       // Output: [0, 1]
 }
 
+
+
 /*
 Explanation:
 This approach uses a hash map for faster lookups. First, it maps each element to
@@ -36,4 +38,4 @@ exists in the map.
 
 Time Complexity: O(n)
 Space Complexity: O(n)
- */
+*/
